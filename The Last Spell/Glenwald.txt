@@ -1,0 +1,16 @@
+Day 1:
+- 2 Gold
+- 3 workers
+Day 2:
+- 2 Gold (upgraded), 1 Gold
+- 8 workers
+Day 4:
+- 3 Gold (all upgraded)
+- 3 Scavengers
+- 10 workers
+- +1 hero (4 total)
+Day 5:
+- 12 workers
+- 2 scavengers upgraded prod
+- +1 hero (5 total)
+Night 6 - they appear at the corners

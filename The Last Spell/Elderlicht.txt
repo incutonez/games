@@ -1,0 +1,38 @@
+- Prioritize certain ghosts... like wand, hammers, and bows
+- Pick up as much AP and movement buffs as possible
+- Pick up blink and possibly use teleporters
+- Res reduction for boss
+- Potions of stability for boss
+- Build alchemy shop
+- Human ballista
+- Suggested omens: Omen of Wanderer, Leaps, Dexterity, Fieriness, Mercenary Training, Restraint
+
+Day 1:
+- Add 3 houses
+- Add 1 mine
+- Build ballistas around circle
+- SHOULD HAVE 5 workers
+Day 2:
+- Upgrade 1 mine Mine+ Production+, use worker
+- Add 2 mines
+- SHOULD HAVE 5 workers
+Day 3:
+- Upgrade 2 mines to max, use 4 workers
+- Upgrade all houses to +1
+- Use 1 worker to scavenge
+- Upgrade last mine, use 2 workers
+- SHOULD HAVE 10 workers
+Day 4:
+- Use 6 workers on mines for 240g
+- Upgrade 2 houses
+- Repel fog
+- Scavenge all elite corpses
+- Add 2 scav camps
+- SHOULD HAVE 10-13 workers
+- SHOULD HAVE 4 Heroes
+Day 5:
+- 6 workers collect gold
+- Repel fog
+- Build Inn
+- SHOULD HAVE 5 heroes
+- SHOULD HAVE 11 workers
