@@ -1,0 +1,52 @@
+Omens:
+- Wanderer
+- Growth (or Talent)
+- Vigor (or Savenging/Readiness/Restraint/Fieriness)
+- Leaps
+- Dex
+
+Perks:
+- 2: Defensive Training, Glass Cannon
+- 3: Vampire + Blood Magic
+- 4: Flexibility, Specialist, Blink
+- 5: Legendary Assassin, Big Game Hunter, Sheer Power, Boom, Night Owl
+
+Attributes:
+- Always take AP over anything
+- If multi-hit shows, see if you can swap around chars
+- ~40% accuracy
+- 35+% crit
+- 10+ move points
+- As much +dmg you can get. It doesn't really diminish
+- Resistance Reduction
+- Isolation
+
+Corpse strategy: Elite Carrion > Mountains > Piles
+
+Day 0:
+- Build 2 GMs (Gold Mines)
+- Build mana well
+- Build ballista
+Night 1:
+- Try to get 2+ mountain of corpses within town limit
+Day 1:
+- Build GM
+- Build 4 houses
+- Scavenge
+- Upgrade 1 house, scavenge, repeat
+- Build scav camp
+- Build mana well
+- Upgrade 1+ GM
+- Demolish corpses in haven (they increase panic)
+Day 2:
+- Upgrade to Production+ AND Mine+ in all GMs
+- Upgrade all houses to +1
+Day 3:
+- GM + Scavenge
+- Build seer
+- Repel fog
+- Build Inn
+Day 4:
+- Repel fog
+- 3 workers GM
+- Buy 5th hero

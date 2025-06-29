@@ -1,0 +1,50 @@
+Day 1:
+- Build 2 houses
+- Upgrade house
+- Scavenge 4 ruin
+- Upgrade 2 houses
+- Scavenge pile of corpses+ or 2 ruin
+- Upgrade last house
+- Scavenge 1 ruin
+- Build mana well
+- Walls for Inn/GM
+Day 2:
+-  Scavenge remaining 4 worker ruins
+- Build 2 GMs
+- 2nd mana well
+- Upgrade GMs to Prod+
+- Protect GMs/Inn
+Day 3:
+- If 2+ piles of corpses, scavenge that and 1 ruin, else scavenge 3 worker ruins
+- Upgrade 3 houses
+- Build seer
+- Repel fog
+- Upgrade GMs to Mine+
+- Use 2-3 workers at GMs
+- Build armorer or scav camp
+- Protect GMs
+Day 4:
+- Repel fog
+- Upgrade GMs to max, use 6 workers
+- Level+ at armorer
+- Upgrade all houses if not already
+- 2 more armor makers and 1 more prod building of choosing
+- Scavenge for items (or gold if short on buildings)
+Day 5:
+- Repel fog
+- Harvest elite
+- 6 workers at GMs
+- Inn Accommodation+
+- Buy 5th hero
+- Item Level++ at prod building (if can afford)
+- Ballista
+Day 6:
+- Repel fog
+- 6 workers at GMs
+- In Accommodation++
+- Buy 6th hero
+- Scavenge for items
+- Upgrade Shopkeeper and SHOP
+- Ballista
+Day 7:
+- Same as before but do 5 warp gates to each side (close to the statue) and 1 at home base
