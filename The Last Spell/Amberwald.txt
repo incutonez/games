@@ -1,0 +1,24 @@
+Day 1:
+- 2 Houses (4 workers)
+- Scavenge 3 worker ruins
+- 1 GM
+- Scavenge corpse
+- Ballista
+Day 2:
+- 2 GMs
+- Upgrade 1 GM prod+
+- Scavenge corpses
+- Ballista
+Day 3:
+- Upgrade all GMs to max
+- Upgrade 2 Houses (6 workers)
+Day 4:
+- 6 workers GM
+- Build Inn
+- Buy 5th hero
+Day 5:
+- 6 workers GM
+- Scavenge elite if available
+- Buy 6th hero
+- Upgrade 3 houses (9 workers)
+- Mana well to probably restore magic
